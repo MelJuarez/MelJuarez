@@ -1,5 +1,5 @@
 
-[![Computadora Antigua](http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/a3292c0b7b7c097.png "Computadora Antigua")](http://http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/a3292c0b7b7c097.png "Computadora Antigua")
+
 
 <h1>Bienvenid@</h1>
 <h2>Mi Nombre es Melissa :D</h2>
@@ -23,3 +23,5 @@
   </ul>
   
 </h4>
+
+[![Computadora Antigua](http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/a3292c0b7b7c097.png "Computadora Antigua")](http://http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/a3292c0b7b7c097.png "Computadora Antigua")
